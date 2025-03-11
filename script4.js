@@ -9,7 +9,7 @@ function function_name(para1, para2){
     // statement
     // statement
     let value;
-    return value; // This is optional
+    return value; // optional
 }
 
     // Example code
@@ -33,6 +33,7 @@ function function_name(para1, para2){
     }
 
     greetPeople('Yashu Patil', 'tamil');
+    greetPeople('Rohit', 'telugu');
 
     function degC2Fahrenheit(temp){
         return temp + 32;
